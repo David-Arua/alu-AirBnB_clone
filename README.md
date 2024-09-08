@@ -71,7 +71,7 @@ To run a specific test file, use:
 python3 -m unittest tests/test_models/test_city.py
 ```
 
-## [AUTHORS] Authors
+## [AUTHORS]
 
 - David James Arua 
 - Beverly Tashinga Mugwadi 
